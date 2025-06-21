@@ -6,9 +6,6 @@
 
 ## 🔗 Key Projects
 
-### � [mcpc.tech](https://github.com/mcpc-tech/mcpc.tech)
-**Official Website** - Experience MCPC through our intuitive web interface
-
 ### 🎯 [mcpc](https://github.com/mcpc-tech/mcpc)
 **Core Framework** - The main MCPC repository with SDK, documentation, and examples
 
@@ -21,7 +18,7 @@
 ## 🚀 Quick Start
 
 1. **Web Interface**: Visit [mcpc.tech](https://mcpc.tech/) for instant workflow creation
-2. **Developer SDK**: `npm install jsr:@mcpc/core` for programmatic access
+2. **Developer SDK**: `npx jsr add @mcpc/core` for programmatic access
 
 ---
 
