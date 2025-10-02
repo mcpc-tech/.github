@@ -9,6 +9,9 @@
 ### 🎯 [mcpc](https://github.com/mcpc-tech/mcpc)
 **Core Framework** - The main MCPC repository with SDK, documentation, and examples
 
+### 👷 [cmcp](https://github.com/mcpc-tech/cmcp)
+**A experimental MCP client that supports client tool calls**
+
 ### 🔧 [oapi-invoker-mcp](https://github.com/mcpc-tech/oapi-invoker-mcp)
 **OpenAPI Integration** - MCP server for invoking OpenAPI/REST services
 
